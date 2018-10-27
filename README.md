@@ -12,4 +12,11 @@ catkin build
 ```
 NOTE:please do not build your catkin workspace with **catkin_make**!!!.
 
+
+
+
+NOTE:if you get some errors like **[rospack] Error: package 'some' not found** that is because you don't build your ROS package.
+
+
+NOTE:if you get some errors like in the picture:![alt name](https://ibb.co/hX6pvq "some") 
  
