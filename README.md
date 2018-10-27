@@ -21,6 +21,6 @@ NOTE:if you get some errors like **[rospack] Error: package 'some' not found** t
 NOTE:if you get some errors like in the image
 ![alt tag](deneme.png "some") 
 sometext i will write
-'''shell
+```shell
 ~/catkin_ws
-'''
+```
