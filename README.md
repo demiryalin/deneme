@@ -6,3 +6,10 @@ then clone the 'gazebo_utils' repo from github:
 ```
 git clone ${github_url}
 ```
+build your catkin workspace with:
+```
+catkin build
+```
+NOTE:please do not build your catkin workspace with **catkin_make**!!!.
+
+ 
