@@ -1,9 +1,8 @@
-# README
-
-please visit the site [here](https://onedio.com/)
-
-please follow:
+open a terminal and go to your catkn workspace's source directory:
 ```
-sudo apt-get install something
-sudo apt-get update
+cd ${catkin_ws}/src
+```
+then clone the 'gazebo_utils' repo from github:
+```
+git clone ${github_url}
 ```
