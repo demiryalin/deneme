@@ -20,4 +20,4 @@ NOTE:if you get some errors like **[rospack] Error: package 'some' not found** t
 
 NOTE:if you get some errors like in the picture:
 ![alt tag](https://imgur.com/a/uDNljBm "some") 
- 
+asdasd 
